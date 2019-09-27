@@ -4,3 +4,38 @@ body{
     max-width: 1024px;
     
 }
+header{
+    background: #cadfea;
+}
+header nav {
+    background: #006fc3;
+    border-radius: 5px;
+    margin: 2px auto;
+    padding: 2px 0px;
+    width: 99%;
+
+}
+header nav form{
+    float: right;
+    margin-right: 20px;
+    margin-top: -40px;
+}
+header nav form input{
+    border-radius: 5px;
+}
+header nav form input[type="button"]{
+    background:#69bc58;
+    border: 1px solid #69bc58;
+    color: white;
+
+}
+header nav ul li {
+    /* border: 1px solid blue; */
+    color: white;
+    margin: 0px auto;
+    display: inline-block;
+    margin-right: 20px;
+}
+#logo{
+    margin-top: -150px;
+}
