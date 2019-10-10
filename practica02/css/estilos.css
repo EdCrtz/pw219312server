@@ -6,21 +6,21 @@ body{
 }
 header input{
     float: right;
-    margin-right: -240px;
-    margin-top: 15px;
+	margin-right: -240px;
+	margin-top: 15px;
 }
 header nav{
     /* text-align: center; */
     margin-left: 220px;
 }
 header nav ul li{
-    border-bottom: 1px solid lightgray;
-    color: lightgray;
-    display: inline-block;
-    font-size: 1.8em;
-    margin-right: 15px;
-    padding-bottom: 5px;
-    /* text-decoration: underline; */
+    border-bottom:1px solid lightgray;
+	color: lightgray;
+	display: inline-block;
+	font-size: 1.8em;
+	margin-right: 15px;
+	padding-bottom: 5px;
+	/*text-decoration: underline;*/
 
 }
 #bgoffer{
@@ -51,7 +51,47 @@ header nav ul li{
 }
 #secc01art02{
     margin-left: 50px;
-    width: 30%;
+	width: 30%;
+}
+#secc03art04{
+    padding-left:25px;
+    padding-top:40px;  
+}
+#segundaSeccion article{
+    padding-right: 122px;
+    text-align: right;
+}
+#terceraSeccion article{
+    display: inline-block;
+    width: 23%;
+    vertical-align: top;
+}
+#terceraSeccion article img{
+    vertical-align: middle;
+}
+#terceraSeccion article input{
+    border-radius: 5px;
+}
+#terceraSeccion article input[type="button"]{
+    background: #8BC500;
+    color: white;
+}
+.clorazul{
+    color: #4267B3;
+}
+.colorrosa{
+    color: #ff0099;
+}
+.colorverde{
+    color: #8BC500;
+}
+.letramediana{
+    font-size: 2em;
+}
+.letragrande{
+    font-size: 3.5em;
 
 }
-
+.nito{
+    font-weight: bold;
+}
