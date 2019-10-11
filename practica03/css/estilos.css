@@ -1,0 +1,107 @@
+body{
+	font-size: 16px; /*1em*/
+	margin: 0px auto;
+	/*Es requerimiento del cliente*/
+	max-width: 1440px;
+}
+#logo{
+	width: 200px;
+	position: relative;
+}
+#primerSeccion{
+	padding-bottom: 30px;
+	padding-top: 25px;
+	background: #2B2B2B;
+}
+#segundaSeccion img{
+	width: 200px;
+}
+#segundaSeccion {
+	padding-top: 25px;
+	border-top: 1px solid gray;
+	background: #2B2B2B;
+}
+#primerSeccion article{
+	display: inline-block;
+	vertical-align: top;
+	width: 230px;
+	height: 280px;
+	padding-top: 30px;
+	padding-right: 10px;
+	padding-left: 10px; 
+	padding-bottom: 40px;
+	margin-left: -7px;
+
+}
+#segundaSeccion article{
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 65px;
+}
+#secc01art01{
+	margin-right: 75px;
+}
+#menu{
+	padding-top: 2px;
+	height: 55px;
+	padding-left: 120px;
+	margin-bottom: 20px;
+}
+#secc01art02{
+	background: rgb(180,208,82);
+	color: white;
+}
+#secc01art03{
+	color: white;
+	background: rgb(84,84,84);
+}
+#secc01art04{
+	background: rgb(212,45,63);
+	color: white;
+}
+#secc01art05{
+	background: rgb(228,228,228);
+	color: gray;
+}
+header{
+	background: white;
+}
+header input{
+	height: 30px;
+	float: left;
+	margin-top: 8px;
+	margin-left: 70px;
+	width: 125px;
+	border-radius: 3px;
+
+}
+section article ul li {
+    list-style-type: none;
+	color: white;
+	font-size: 1.5em;
+	/*text-decoration: underline;*/
+	padding-bottom: 5px;
+	
+}
+.derecha{
+    float: right;
+}
+#segundaSeccion article img{
+    border-bottom: 3px dashed gray;
+    padding-left: 110px;
+    padding-bottom:20px; 
+    width: 262px;
+}
+/*section article*/
+.letragrande{
+	font-size: 1.7em;
+}
+.nito{
+	font-weight: bold; /*negritas*/
+}
+.colorgris{
+	color: #9E9E9E;
+}
+.colorblanco{
+    color:white;
+}
