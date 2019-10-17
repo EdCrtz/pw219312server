@@ -1,0 +1,131 @@
+body{
+    font-size: 16px;
+    /*1em*/
+    margin: 0px auto;
+    max-width: 1440px;
+   
+}
+#art1subir{
+    position: relative;
+    top: 90px;
+    margin-left:50px ;
+    margin-bottom: 20px;
+}
+#primerSeccion{
+    height: 400px;
+    background-color:#606060;
+}
+#primerSeccion article{
+    display: inline-block;
+    height: 400px;
+    vertical-align: top;
+}
+#sec01art1{
+    background: #F1EFEF;
+    width: 60%;
+    height: 100%;
+    text-align:center;
+     font-family: 'Open Sans',
+     sans-serif;
+
+}
+#sec01art2{
+    background: #606060;
+    padding-left:40px ;
+    width: 35%;
+    height: 100%;
+    text-align:center;
+    font-family: 'Open Sans',
+    sans-serif;
+}
+#segundaSeccion article{
+    float: left;
+    display: inline-block;
+    height: 270px;
+    vertical-align: top;
+  
+}
+#segundaSeccion{
+    height: 270px;
+    background-color: #787777;
+    text-align:center;
+}
+#sec02art1{
+    width: 45%;
+    height: 100%;
+    background-color:#55acee;
+
+}
+#sec01art1 img{
+    width: 200px;
+    padding-top:10px ;
+}
+#sec01art1 input[type="submit"]{
+    height: 50px;
+    width: 150px;
+}
+#sec01art2 input[type="submit"]{
+    height: 50px;
+    width: 200px;
+}
+#sec02art2{
+    background-color:#d1ddcf;
+    width: 25%;
+    height: 100%;
+    font-family: 'ARCHIVO BLACK',
+    sans-serif;
+}
+#sec02art2 article{
+     position: relative;
+     right: 40px;
+}
+#sec02art3 article{
+    position: relative;
+    right: -40px;
+}
+#sec02art3{
+    background-color: #787777;
+    width: 30%;
+    height: 100%;
+    font-family: 'ARCHIVO BLACK',
+    sans-serif;
+    
+}
+#sec02art2 input[type="submit"]{
+    height: 50px;
+    width: 150px;
+}
+#sec02art3 input[type="submit"]{
+    height: 50px;
+    width: 150px;
+}
+.borde{
+    border-radius: 25px;
+    background-color: Transparent;
+    font-family: 'ARCHIVO BLACK',
+    sans-serif;
+   
+}
+.grande{
+    font-size:1.5em ;
+}
+.bordeblanco{
+    border-radius: 25px;
+    background-color: #f2efef;
+    background-color: Transparent;
+    font-family: 'ARCHIVO BLACK',
+    sans-serif;
+}
+.nito{
+    font-weight: bold;
+    /*negritas*/
+}
+.letrablanca{
+    color: white;
+}
+.letragris{
+    color: #333333
+}
+.cursiva{
+    font-family: 'LIBRE BASKERVILLE',serif;
+}
