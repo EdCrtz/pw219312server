@@ -100,6 +100,7 @@ body{
     width: 150px;
 }
 .borde{
+    border: 2px solid  black;
     border-radius: 25px;
     background-color: Transparent;
     font-family: 'ARCHIVO BLACK',
@@ -110,6 +111,7 @@ body{
     font-size:1.5em ;
 }
 .bordeblanco{
+    border: 2px solid white;
     border-radius: 25px;
     background-color: #f2efef;
     background-color: Transparent;
