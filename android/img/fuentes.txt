@@ -1,0 +1,2 @@
+Say hello,boton,nav,learn - "Android Euclid",Helvetica,Arial,sans-serif 
+check out everything,letras chicas -"Roboto",Helvetica,Arial,sans-serif
